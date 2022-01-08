@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @gtamer2
 - 👀 I’m interested in ... all things crypto
-- 🌱 I’m currently learning ... Solidity
-- 💞️ I’m looking to collaborate on ... NFT and DeFi projects
+- 🌱 I’m currently learning ... Solidity, node.js
+- 💞️ I’m looking to collaborate on ... web3 - I am particularly interested in social problems like reputatation and knowledge. 
 - 📫 How to reach me ...
 LinkedIn: https://www.linkedin.com/in/george-tamer/
-Twitter: @geohodl
+Twitter: @georgetamer_
 
 
 <!---
